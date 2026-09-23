@@ -1,0 +1,31 @@
+# Build e ficheiros gerados pelo Gradle
+*.iml
+.gradle
+/build
+/captures
+/.externalNativeBuild
+/.cxx
+local.properties
+
+# Ficheiros do IDE (Android Studio / IntelliJ)
+.idea/
+.navigation/
+workspace.xml
+tasks.xml
+shelf/
+caches/
+codeStyles/
+
+# Ficheiros compilados e de saída
+*.class
+*.aar
+*.apk
+*.aab
+
+# Ficheiros de Log e SO
+*.log
+.DS_Store
+Thumbs.db
+
+# Ficheiros do Android Profiler
+*.hprof
