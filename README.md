@@ -48,4 +48,5 @@ Para o correto funcionamento visual, certifica-te de que os seguintes ficheiros 
 
 1. Clona este repositório:
    ```bash
-   git clone [https://github.com/teu-usuario/pdm_pjg_lista4.git](https://github.com/teu-usuario/pdm_pjg_lista4.git)
+   git clone[ [https://github.com/teu-usuario/pdm_pjg_lista4.git](https://github.com/teu-usuario/pdm_pjg_lista4.git)
+](https://github.com/PedroRicarte1912/Projeto_PDM_PlantaVirtual.git)
